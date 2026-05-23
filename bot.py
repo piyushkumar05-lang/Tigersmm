@@ -7,7 +7,7 @@ import random
 BOT_TOKEN = "8897480826:AAGOV84ofjBfsyaCu5Q0ybhRKA88lnNsNH0"
 ADMIN_ID = 6719411631
 CHANNEL_USERNAME = "@your_channel" # <-- Apna channel daal
-CHANNEL_LINK = "https://t.me/your_channel" # <-- Link daal
+CHANNEL_LINK = "https://t.me/trust_zonw" # <-- Link daal
 
 user_state = {}
 VIP_USERS = [123456789]
