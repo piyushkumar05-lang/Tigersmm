@@ -4,7 +4,7 @@ from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKe
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, CallbackQueryHandler
 import random
 
-BOT_TOKEN = "8897480826:AAGOV84ofjBfsyaCu5Q0ybhRKA88lnNsNH0"
+BOT_TOKEN = "8783131228:AAHZ_cW8j7QcaD3hpHnskLcRquhDAl6QUr4"
 ADMIN_ID = 6719411631
 CHANNEL_USERNAME = "@trust_zonw"
 CHANNEL_LINK = "https://t.me/trust_zonw"
